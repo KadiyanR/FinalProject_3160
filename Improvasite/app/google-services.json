@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "160595611206",
+    "firebase_url": "https://improvasitefinal.firebaseio.com",
+    "project_id": "improvasitefinal",
+    "storage_bucket": "improvasitefinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160595611206:android:18182b1fa9d4dd5d",
+        "android_client_info": {
+          "package_name": "com.example.t00528560.improvasite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160595611206-psqlgcf1eol7o5tlqln4f2addqj3q6b6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.t00528560.improvasite",
+            "certificate_hash": "5a96c87fc66b8480e8eb0391a29b9699a3ee91a3"
+          }
+        },
+        {
+          "client_id": "160595611206-00t1qm4t6lvq1d9gihpgn530dkbk54n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn-w28zBNKsZbi9YjiJfSw37Ik1e-VLsM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160595611206-00t1qm4t6lvq1d9gihpgn530dkbk54n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
